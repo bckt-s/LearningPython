@@ -1,0 +1,13 @@
+[project]
+name = "chat-scraper"
+version = "0.1.0"
+description = "CLI tool to scrape a webpage and save results to CSV"
+requires-python = ">=3.10"
+
+[project.scripts]
+chat-scrape = "chat_scraper.cli:main"
+
+[build-system]
+requires = ["setuptools>=67", "wheel"]
+build-backend = "setuptools.build_meta"
+

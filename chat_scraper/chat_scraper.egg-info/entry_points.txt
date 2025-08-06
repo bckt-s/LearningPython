@@ -1,0 +1,2 @@
+[console_scripts]
+chat-scrape = chat_scraper.cli:main

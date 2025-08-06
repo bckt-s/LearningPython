@@ -1,0 +1,8 @@
+pyproject.toml
+chat_scraper/__init__.py
+chat_scraper/cli.py
+chat_scraper.egg-info/PKG-INFO
+chat_scraper.egg-info/SOURCES.txt
+chat_scraper.egg-info/dependency_links.txt
+chat_scraper.egg-info/entry_points.txt
+chat_scraper.egg-info/top_level.txt
